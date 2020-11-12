@@ -9,3 +9,7 @@ MSA(Microservice Architecture) 란?
 - 1개의 시스템을 독립적으로 배포가능한 각각의 서비스로 
 
 
+Stack and Heap (스택과 힙의 차이)
+- 프로그램이 사용하는 메모리는 일반적으로 세그먼트라고 하는 영역으로 나뉜다.
+
+
